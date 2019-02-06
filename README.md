@@ -26,6 +26,7 @@ Tested and works under Blender 2.7 and 2.8.
 Compatible with:
  * Keyframe animation,
  * Modifiers which are not altering the model's triangle count in function of time.
+ 
 For instance: will not work with fluid simulation, but it will work with armature modifier or ocean modifier.
 
 ### What's next?
